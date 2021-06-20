@@ -23,6 +23,7 @@
 //cat.complain();
 
 
+
 // Question 2
 
 //const thirdHeading = document.querySelector("h3");
